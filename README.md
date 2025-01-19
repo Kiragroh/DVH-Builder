@@ -10,10 +10,6 @@ Eine Webanwendung zur Visualisierung von Dosis-Volumen-Histogrammen (DVH) aus DI
 - Strukturauswahl über Checkboxen
 - Excel-Export der ausgewählten DVH-Daten
 
-## Demo
-
-[Self-Hosted Demo-App](https://telecoin.pythonanywhere.com/)
-
 ## Installation
 
 1. Stellen Sie sicher, dass Python 3.7+ installiert ist
