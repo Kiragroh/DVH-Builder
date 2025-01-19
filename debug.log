@@ -1,0 +1,45 @@
+2025-01-19 11:37:19,756 - WARNING -  * Debugger is active!
+2025-01-19 11:37:19,756 - INFO -  * Debugger PIN: 321-311-333
+2025-01-19 11:37:19,992 - WARNING -  * Debugger is active!
+2025-01-19 11:37:19,996 - INFO -  * Debugger PIN: 321-311-333
+2025-01-19 11:37:20,173 - WARNING -  * Debugger is active!
+2025-01-19 11:37:20,175 - INFO -  * Debugger PIN: 321-311-333
+2025-01-19 11:37:30,919 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-19 11:37:30,919 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-19 11:37:30,920 - INFO -  * Restarting with stat
+2025-01-19 11:37:31,939 - WARNING -  * Debugger is active!
+2025-01-19 11:37:31,941 - INFO -  * Debugger PIN: 321-311-333
+2025-01-19 11:37:35,969 - INFO - 127.0.0.1 - - [19/Jan/2025 11:37:35] "GET / HTTP/1.1" 200 -
+2025-01-19 11:37:42,936 - INFO - Starting DVH calculation with files: uploads\RTDOSE_20240808_1.2.246.352.71.7.172824562505._1.2.246.352.71.7.172824562505.955233.20240809144417.dcm, uploads\RTSTRUCT_20240808_UKE_CBC_1.2.826.0.1.3680043.8.498.81222350029436766512730344413184899836.dcm
+2025-01-19 11:37:42,953 - DEBUG - Found ROI #1: Bladder_CBCT
+2025-01-19 11:37:42,954 - DEBUG - Found ROI #2: Body~
+2025-01-19 11:37:42,954 - DEBUG - Found ROI #3: Prostate_CBCT
+2025-01-19 11:37:42,954 - DEBUG - Found ROI #4: Rectum_CBCT
+2025-01-19 11:37:42,961 - INFO - 127.0.0.1 - - [19/Jan/2025 11:37:42] "POST /upload HTTP/1.1" 200 -
+2025-01-19 11:39:01,871 - INFO -  * Detected change in 'C:\\Users\\maxgr\\Desktop\\WebApp_DVH-Builder\\app.py', reloading
+2025-01-19 11:39:02,254 - INFO -  * Detected change in 'c:\\Users\\maxgr\\Desktop\\WebApp_DVH-Builder\\app.py', reloading
+2025-01-19 11:39:02,269 - INFO -  * Detected change in 'C:\\Users\\maxgr\\Desktop\\WebApp_DVH-Builder\\app.py', reloading
+2025-01-19 11:39:02,399 - INFO -  * Restarting with stat
+2025-01-19 11:39:03,088 - WARNING -  * Debugger is active!
+2025-01-19 11:39:03,089 - INFO -  * Debugger PIN: 321-311-333
+2025-01-19 11:39:03,516 - WARNING -  * Debugger is active!
+2025-01-19 11:39:03,519 - INFO -  * Debugger PIN: 321-311-333
+2025-01-19 11:39:03,532 - WARNING -  * Debugger is active!
+2025-01-19 11:39:03,533 - INFO -  * Debugger PIN: 321-311-333
+2025-01-19 11:39:15,243 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-01-19 11:39:15,244 - INFO - [33mPress CTRL+C to quit[0m
+2025-01-19 11:39:15,245 - INFO -  * Restarting with stat
+2025-01-19 11:39:16,294 - WARNING -  * Debugger is active!
+2025-01-19 11:39:16,296 - INFO -  * Debugger PIN: 321-311-333
+2025-01-19 11:39:16,869 - INFO - 127.0.0.1 - - [19/Jan/2025 11:39:16] "GET / HTTP/1.1" 200 -
+2025-01-19 11:39:22,119 - DEBUG - Found ROI #1: Bladder_CBCT
+2025-01-19 11:39:22,119 - DEBUG - Found ROI #2: Body~
+2025-01-19 11:39:22,119 - DEBUG - Found ROI #3: Prostate_CBCT
+2025-01-19 11:39:22,120 - DEBUG - Found ROI #4: Rectum_CBCT
+2025-01-19 11:39:22,308 - INFO - 127.0.0.1 - - [19/Jan/2025 11:39:22] "POST /upload HTTP/1.1" 200 -
+2025-01-19 11:40:15,344 - INFO -  * Detected change in 'c:\\Users\\maxgr\\Desktop\\WebApp_DVH-Builder\\app.py', reloading
+2025-01-19 11:40:15,447 - INFO -  * Detected change in 'C:\\Users\\maxgr\\Desktop\\WebApp_DVH-Builder\\app.py', reloading
+2025-01-19 11:40:15,452 - INFO -  * Restarting with stat
+2025-01-19 11:40:16,090 - INFO -  * Detected change in 'C:\\Users\\maxgr\\Desktop\\WebApp_DVH-Builder\\app.py', reloading
