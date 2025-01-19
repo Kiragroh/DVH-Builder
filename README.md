@@ -32,7 +32,7 @@ python app.py
 3. Laden Sie Ihre DICOM-RT Dateien hoch:
    - Wählen Sie die RTDOSE-Datei
    - Wählen Sie die RTSTRUCT-Datei
-   - Klicken Sie auf "Hochladen"
+   - Klicken Sie auf "Start"
 
 4. Interagieren Sie mit dem DVH:
    - Wählen Sie Strukturen über die Checkboxen aus/ab
