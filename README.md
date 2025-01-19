@@ -15,7 +15,7 @@ Eine Webanwendung zur Visualisierung von Dosis-Volumen-Histogrammen (DVH) aus DI
 Hosted on pythonanywhere.com
 
 ```bash
-https://telecoin.pythonanywhere.com/
+[Self-Hosted Demo-App]([URL](https://telecoin.pythonanywhere.com/))
 ```
 
 ## Installation
